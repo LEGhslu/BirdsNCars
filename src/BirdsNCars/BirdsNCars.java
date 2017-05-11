@@ -11,7 +11,6 @@ package BirdsNCars;
  */
 public class BirdsNCars {
 
-    /*Kommentar*/
     /**
      * @param args the command line arguments
      */
