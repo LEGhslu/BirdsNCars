@@ -9,14 +9,6 @@ package BirdsNCars;
  *
  * @author Adi
  */
-public class BirdsNCars {
-
-    /*Kommentar*/
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class testclass {
     
 }
